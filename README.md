@@ -1,5 +1,7 @@
 # README
 
+## THIS IS VERY MUCH "work in progress"
+
 1. First end-to-end analysis, simple regression
 
 2. PCA, simple scikit-learn pipeline
